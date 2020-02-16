@@ -1,0 +1,15 @@
+
+openCells = a 3x3 matrix where an entry is the number of open cells in each inner board
+if previousMove is None:
+    return 0
+if previousMove points to a specific board:
+    if exists a threat for a threat for the current player
+elif prevMove points to a specific board:
+    if big threat for other player:
+        for each big threat:
+            if little threat in this board for other player in this big threat:
+                
+
+
+    weight the nextboard higher
+    if big threat for other player
