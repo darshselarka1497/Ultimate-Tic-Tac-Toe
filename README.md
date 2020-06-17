@@ -1,4 +1,4 @@
-# ULTIMATE TIC TAC TOE - TEAM 26 B351
+# ULTIMATE TIC TAC TOE
 
 Implemented a variation of the famous Tic Tac Toe Game called Ultimate Tic Tac Toe in Python. It consists of nine big tic tac toe boards. Each big board has nine smaller boards with each cell of the board. In the game, players take turn to play in each of the smaller boards until they win the larger board. 
 
